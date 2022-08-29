@@ -69,7 +69,7 @@ function App() {
           type="text"
           onChange={changeHandler}
           value={detailAddress}
-          placeholder="상세주소"
+          placeholder="상세 주소 입력"
         />
       )}
 
